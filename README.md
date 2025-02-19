@@ -5,8 +5,8 @@
 - 💡 Strong analytical and soft skills, including problem-solving, critical thinking, effective communication, leadership and teamwork.
 - 💼 Freelance experience on Upwork, delivering data cleaning, statistical analysis, visualization, reporting, and educational content for diverse clients.
 - 🤝 Open to collaborations on data projects that enhance decision-making and business intelligence.
-- 🔹 I share valuable data insights on my LinkedIN page.
-- 📫 Let’s connect! Reach out to me 
+- 🔹 I share valuable data insights on my [LinkedIn](https://www.linkedin.com/in/christogonus-ekenwaneze/) .
+- 📫 Let’s connect! Reach out to me [Email](christogonusekenwaneze@gmail.com)
 
 <!---
 ChristogonusEkenwaneze/ChristogonusEkenwaneze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
