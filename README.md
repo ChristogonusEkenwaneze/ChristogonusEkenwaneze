@@ -11,6 +11,7 @@ Hello, Welcome to my GitHub Page
 - 🤝 Open to collaborations on data projects that enhance decision-making and business intelligence.
 - 🔹 I share valuable data insights on my [LinkedIn](https://www.linkedin.com/in/christogonus-ekenwaneze/) .
 - 📫 Let’s connect! Reach out to me [Email](christogonusekenwaneze@gmail.com)
+
   
 ![WhatsApp Image 2025-02-19 at 05 37 37_57096d32](https://github.com/user-attachments/assets/25d0206a-b22c-48b6-9bd6-05efe1f914c0)
 
