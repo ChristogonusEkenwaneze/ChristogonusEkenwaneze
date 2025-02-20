@@ -3,7 +3,7 @@ Hello, Welcome to my GitHub Page
 
 ![dp](https://github.com/user-attachments/assets/bf175c40-52df-468e-b7a3-533c50216ad3)
 
-#👩‍💻 About Me
+# About Me
 - 🔍 I’m a Data Analyst with expertise in extracting insights and driving data-driven decisions.
 - 📊 Proficient in data analysis tools like Excel, Google Sheets, SPSS, and R, alongside Power BI for data visualization.
 - 💡 Strong analytical and soft skills, including problem-solving, critical thinking, effective communication, leadership and teamwork.
